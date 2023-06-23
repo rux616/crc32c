@@ -46,8 +46,8 @@ Alternatively, you can just manually copy the binary to wherever you need it.
 - .gitignore: [MIT](https://opensource.org/license/mit/), Copyright 2023 Dan Cassidy
 - Makefile: [MIT](https://opensource.org/license/mit/), Copyright 2023 Dan Cassidy
 - README.md: [MIT](https://opensource.org/license/mit/), Copyright 2023 Dan Cassidy
-- crc32c.c: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via the Stack Exchange Terms of Service as detailed [here](https://stackoverflow.com/help/licensing)
+- crc32c.c: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via the Stack Exchange Terms of Service as detailed [here](https://stackoverflow.com/help/licensing) and [here](https://stackoverflow.com/posts/17646775/timeline#history_b8f3e8c5-356e-43b8-9069-d1f69b06039b)
     - The `TEST` macro is [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0), via the [license in its origin repo](https://github.com/madler/brotli/blob/46ecea69a993a7ebd2de4a60ae6042d31e26213f/LICENSE)
-- generate_crc32c_h.c: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via the Stack Exchange Terms of Service as detailed [here](https://stackoverflow.com/help/licensing)
+- generate_crc32c_h.c: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via the Stack Exchange Terms of Service as detailed [here](https://stackoverflow.com/help/licensing) and [here](https://stackoverflow.com/posts/17646775/timeline#history_b8f3e8c5-356e-43b8-9069-d1f69b06039b)
 - load.c: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0), via the [license in its origin repo](https://github.com/madler/brotli/blob/46ecea69a993a7ebd2de4a60ae6042d31e26213f/LICENSE)
 - load.h: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0), via the [license in its origin repo](https://github.com/madler/brotli/blob/46ecea69a993a7ebd2de4a60ae6042d31e26213f/LICENSE)
